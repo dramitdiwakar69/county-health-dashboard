@@ -1,5 +1,12 @@
 # County Health Dashboard
+## 🌐 Live Shiny App
+This interactive dashboard explores county-level obesity and diabetes prevalence across the United States using CDC PLACES data, with dynamic filtering and visualization features.
+🔗 [Open the Shiny App](https://amitdiwakar.shinyapps.io/places_dashboard/)
 
+
+## Overview
+
+🔗 https://amitdiwakar.shinyapps.io/places_dashboard/
 ## Overview
 This project is an interactive R Shiny dashboard built using the CDC PLACES county-level dataset. The dashboard explores age-adjusted public health measures across U.S. counties, with a focus on obesity, diagnosed diabetes, and their relationship.
 
